@@ -218,7 +218,6 @@ Following program demonstrates the file handling functions in 'C' programming:
 
 # Review of everything learned
 ## python 3
-## Team members Jesus Eduardo Uicab   Erick Hernandez
 
 We first saw the basics of phon starting to see the variables and symbols of this new programming language for us.
 
